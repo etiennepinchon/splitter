@@ -52,5 +52,8 @@
     "react",
     "resize",
     "split"
-  ]
+  ],
+  "dependencies": {
+    "rollup": "^2.52.1"
+  }
 }
